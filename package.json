@@ -2,10 +2,10 @@
   "name": "my-1-parcel-site",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "",
+  "homepage": "https://github.com/EgorKancir/Date-parcel.git",
   "scripts": {
     "dev": "parcel index.html",
-    "build": "parcel build index.html  --public-url /my-1-parcel-site/",
+    "build": "parcel build index.html  --public-url /Date-parcel/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
